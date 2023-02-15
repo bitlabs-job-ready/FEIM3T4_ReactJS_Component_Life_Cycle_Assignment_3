@@ -1,0 +1,5 @@
+"Create a React component that implements a simple to-do list application. The component should display a list of items and allow the user to add, edit, and delete items from the list. Use the following lifecycle methods to implement the functionality: 
+componentDidMount: Retrieve the list of items from local storage and set the state 
+componentDidUpdate: Save the list of items to local storage 
+componentWillUnmount: Clear the list of items from local storage 
+The component should also include a form that allows the user to add new items to the list and a button that allows the user to delete an item."
